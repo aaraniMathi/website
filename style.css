@@ -155,7 +155,9 @@ h3:after{
     padding:10px;
     position:relative;	
 }
-
+.abt h1{
+	padding:10px;
+}
 
 .mark2{
 	box-shadow: -10px -5px 40px 0 rgba(0, 0, 0, 0.1);
